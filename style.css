@@ -120,14 +120,14 @@ table > tbody > tr > td {
   }
 
   .navbar_menu li {
-    width: 80%;
+    width: 100%;
     padding: 8px 0;
     text-align: center;
     margin-left: 0;
   }
 
   img {
-    height: 10%;
-    width: 10%;
+    height: 30%;
+    width: 30%;
   }
 }
